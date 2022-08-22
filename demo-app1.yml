@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /demo-app1
+  port: 8081
+logging:
+  level:
+    root: warn
